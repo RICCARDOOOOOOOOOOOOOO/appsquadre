@@ -1,0 +1,35 @@
+[
+  {
+    "nome": "Luca",
+    "ruolo": "edu",
+    "grado": "E",
+    "annata": "2005",
+    "tipologia": "cuoco"
+  },
+  {
+    "nome": "Marta",
+    "ruolo": "edu",
+    "grado": "J",
+    "annata": "2006",
+    "tipologia": "normale"
+  },
+  {
+    "nome": "Sofia",
+    "ruolo": "ragazzo",
+    "annata": "2011",
+    "tipologia": "personaggio"
+  },
+  {
+    "nome": "Giulia",
+    "ruolo": "ragazzo",
+    "annata": "2012",
+    "tipologia": "normale"
+  },
+  {
+    "nome": "Elena",
+    "ruolo": "edu",
+    "grado": "E",
+    "annata": "2005",
+    "tipologia": "cuoco"
+  }
+]
