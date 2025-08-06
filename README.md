@@ -4,9 +4,9 @@ README
 
 ---
 
-## ✅ Funzionalità Implementate
+##  Funzionalità Implementate
 
-### 🛠️ Struttura e Setup
+###  Struttura e Setup
 
 * Creato progetto React con **Vite**.
 * Inizializzato repository Git e pubblicato su **GitHub**.
@@ -18,7 +18,7 @@ README
 
 ---
 
-### 🔐 Autenticazione
+###  Autenticazione
 
 * Aggiunto **controllo del token** come nel sistema "Cassa".
 * Creato file `src/services/auth.js` con:
@@ -30,7 +30,7 @@ README
 
 ---
 
-### 📥 Caricamento dati
+###  Caricamento dati
 
 * Dati di esempio caricati da `public/ragazzi.json`
 * Ogni partecipante ha:
@@ -40,7 +40,7 @@ README
 
 ---
 
-### 🧠 Logica squadre
+###  Logica squadre
 
 * Distinzione tra:
 
@@ -53,7 +53,7 @@ README
 
 ---
 
-### 🧰 Filtri avanzati
+###  Filtri avanzati
 
 * Checkbox:
 
@@ -74,7 +74,7 @@ README
 
 ---
 
-## 📦 File principali
+##  File principali
 
 | File                                | Descrizione                                                      |
 | ----------------------------------- | ---------------------------------------------------------------- |
@@ -85,7 +85,7 @@ README
 
 ---
 
-## 🧪 Sviluppo locale
+##  Sviluppo locale
 
 1. Avvia il server con:
 
@@ -104,7 +104,7 @@ README
 
 ---
 
-## 📌 Prossimi miglioramenti (roadmap)
+##  Prossimi miglioramenti (roadmap)
 
 * Collegamento a servizi PHP reali (`getPartecipanti.php`)
 * Esportazione squadre in PDF
@@ -115,4 +115,3 @@ README
 
 ---
 
-Se vuoi posso anche salvarti questo README come file `.md` nel progetto. Vuoi che lo faccia?
